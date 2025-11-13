@@ -1,12 +1,18 @@
-<!-- Pooja Naik GitHub Profile README -->
+<!--
+  README for Pooja Naik
+  Drop this into a repo named exactly like your GitHub username (poojanaik)
+-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Pooja+Naik!;💻+SIH+Finalist+%7C+Frontend+%26+Fullstack+Developer;🚀+Passionate+about+Building+Creative+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Pooja+Naik.;%F0%9F%92%BB+SIH+Finalist+%7C+Frontend+%26+Fullstack+Developer" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <em>Turning ideas into reality through clean code, creativity, and modern technology 💡</em>
+  <strong>💻 SIH Finalist | Frontend & Fullstack Developer | MCA Student</strong><br/>
+  <em>Passionate about crafting interactive, responsive, and user-friendly web applications. I enjoy turning ideas into reality through clean code, creativity, and modern technologies.</em>
 </p>
+
+---
 
 ## 🌟 About Me
 
