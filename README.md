@@ -84,19 +84,3 @@ Developed an immersive 3D experience using **React.js + Three.js**, implemented 
 ---
 
 > “Building creative and impactful web experiences — one commit at a time.” 🌱
-
----
-
-## ✨ Tips & Notes
-- The **typing** animation at the top is created with [readme-typing-svg](https://readme-typing-svg.demolab.com) and animates on page load.  
-- The **badges** and **trophies** are image-based — GitHub renders these safely in the README (no JS required).  
-- If your GitHub username is different from `poojanaik`, replace every occurrence of `poojanaik` in the stats/trophy URLs with your exact username.
-
----
-
-If you want, I can:
-- 🔧 **Customize the typing lines** (projects, technologies, awards) to exactly match wording you prefer.  
-- 🎨 Replace badges with more animated GIFs (e.g., a SIH ribbon GIF) — I can craft a small GIF badge for you.  
-- 🧾 Produce a compact version for mobile viewers.
-
-Would you like a version with a celebratory confetti GIF and a special SIH finalist ribbon GIF added? (I can create one for you and include it directly in the README.)
