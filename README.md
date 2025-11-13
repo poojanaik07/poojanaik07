@@ -80,6 +80,31 @@ Developed an immersive 3D experience using **React.js + Three.js**, implemented 
   <a href="https://linkedin.com/in/poojanaik7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pooja%20Naik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/poojanaik" target="_blank"><img src="https://img.shields.io/badge/GitHub-poojanaik-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
+## ⚡ GitHub Stats & Badges
+
+<p align="center">
+  <!-- Followers & Stars -->
+  <img src="https://img.shields.io/github/followers/poojanaik?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/poojanaik?label=Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub stars"/>
+  <img src="https://komarev.com/ghpvc/?username=poojanaik&label=Profile%20Views&color=green&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <!-- Repo-Specific Badges (replace 'poojanaik07/your-repo-name' with actual repo) -->
+  <img src="https://img.shields.io/github/stars/poojanaik07/StayFinder?style=for-the-badge&color=FFD700&logo=github" alt="Stars for StayFinder repo"/>
+  <img src="https://img.shields.io/github/forks/poojanaik07/StayFinder?style=for-the-badge&color=blue&logo=git" alt="Forks for StayFinder repo"/>
+  <img src="https://img.shields.io/github/last-commit/poojanaik07/StayFinder?style=for-the-badge&color=orange" alt="Last Commit for StayFinder repo"/>
+</p>
+
+---
+
+<!-- Optional animated badge -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poojanaik&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+
+
 
 ---
 
