@@ -105,7 +105,7 @@ Developed an immersive **3D web experience** using **React.js + Three.js**, with
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poojanaik07&theme=onedark&no-frame=true&row=1&column=6"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/trophy.gif" width="120"/>
 </p>
 
 ---
