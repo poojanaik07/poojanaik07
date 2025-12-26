@@ -4,15 +4,12 @@
    Repo: poojanaik07
 ========================================== -->
 
-<!-- ===== HERO TYPING ANIMATION ===== -->
+<!-- ===== HERO TYPING ANIMATION (WORKS 100%) ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=22C55E&center=true&vCenter=true&width=1000&lines=👋+Hello,+I'm+Pooja+Naik;🎓+MCA+Student+at+BVIMIT;🏆+Smart+India+Hackathon+2025+Winner;💻+Frontend+%26+Fullstack+Developer;✨+Turning+Ideas+Into+Interactive+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=900&color=22C55E&center=true&vCenter=true&width=1000&lines=👋+Hello,+I'm+Pooja+Naik;🎓+MCA+Student+at+BVIMIT;🏆+Smart+India+Hackathon+2025+Winner;💻+Frontend+%26+Fullstack+Developer;✨+Turning+Ideas+Into+Interactive+Experiences" />
 </p>
 
-<!-- ===== SAFE HEADER WAVE (FIXED) ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" />
-</p>
+<br/>
 
 <p align="center">
   <strong>Frontend & Fullstack Developer | MCA Student</strong><br/>
@@ -20,8 +17,6 @@
 </p>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 🌟 About Me
 
@@ -34,8 +29,6 @@
 - 🧩 **Head Student Representative** — Led multiple tech events
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 🧠 Tech Stack
 
@@ -51,8 +44,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
 ## 💼 Featured Projects
 
 ### 🔹 Real-Time Inventory Management System
@@ -67,8 +58,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
 ## 🏆 Achievements
 
 <p align="center">
@@ -78,8 +67,6 @@
 </p>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## ⚡ GitHub Stats & Activity
 
@@ -92,13 +79,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojanaik07&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poojanaik07&theme=tokyonight" />
-</p>
-
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake (OPTIONAL – Works after setup)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/poojanaik07/poojanaik07/output/github-contribution-grid-snake-dark.svg" />
@@ -121,11 +104,6 @@
 </p>
 
 ---
-
-<!-- ===== SAFE FOOTER WAVE ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
-</p>
 
 <p align="center">
   🌱 <em>Designing the future, one commit at a time.</em>
