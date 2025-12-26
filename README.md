@@ -120,3 +120,7 @@ Developed an immersive **3D web experience** using **React.js + Three.js**, with
 ---
 
 > 🏆 *“Winning SIH 2025 wasn’t just about the trophy — it was about innovation, teamwork, and impact.”* 🌱
+>
+> <p align="center">
+  <img src="https://raw.githubusercontent.com/poojanaik07/poojanaik07/output/github-contribution-grid-snake-dark.svg" />
+</p>
