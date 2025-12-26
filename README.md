@@ -103,14 +103,10 @@ Developed an immersive **3D web experience** using **React.js + Three.js**, with
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poojanaik07&theme=tokyonight"/>
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/trophy.gif" width="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=poojanaik07&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/trophy.gif" width="120"/>
-</p>
 
 ---
 
