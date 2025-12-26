@@ -18,6 +18,14 @@
 
 ---
 
+<!-- ===== SIH WINNER BADGES (VISIBLE & STRONG) ===== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20Smart%20India%20Hackathon-2025%20WINNER-22C55E?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/National%20Level-Hackathon%20Champion-0ea5e9?style=for-the-badge" />
+</p>
+
+---
+
 ## 🌟 About Me
 
 - 🎓 **MCA (Pursuing)** — **BVIMIT, Mumbai University**
@@ -30,16 +38,10 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack (Animated Icon Flow)
 
-### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,firebase,reactnative&theme=dark" />
-</p>
-
-### 🛠 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,firebase,reactnative,git,github,figma&theme=dark" />
 </p>
 
 ---
@@ -58,30 +60,31 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements Spotlight (Animated Feel)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆%20Smart%20India%20Hackathon%202025-WINNER-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%20Design-1st%20Prize-3b82f6?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/🏆%20SIH%202025-WINNER-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%20Design-1st%20Prize-blueviolet?style=for-the-badge&logo=figma" />
   <img src="https://img.shields.io/badge/MCA-BVIMIT-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## ⚡ GitHub Stats & Activity
+## ⚡ GitHub Stats (LIVE ANIMATIONS)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=poojanaik07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=poojanaik07&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- ===== ACTIVITY GRAPH ANIMATION ===== -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojanaik07&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (OPTIONAL – Works after setup)
+## 🐍 Contribution Snake (Motion Animation)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/poojanaik07/poojanaik07/output/github-contribution-grid-snake-dark.svg" />
