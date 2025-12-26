@@ -1,72 +1,83 @@
-<!--
-  README for Pooja Naik
-  Repo name: poojanaik07
--->
+<!-- ===============================
+   GitHub Profile README
+   Author: Pooja Naik
+   Repo: poojanaik07
+================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=950&lines=👋+Hi,+I'm+Pooja+Naik;💻+Frontend+%26+Fullstack+Developer;🚀+Smart+India+Hackathon+2025+Winner;🎓+MCA+Student+at+BVIMIT" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=22C55E&center=true&vCenter=true&width=1000&lines=👋+Hello,+I'm+Pooja+Naik;🎓+MCA+Student+at+BVIMIT;🏆+Smart+India+Hackathon+2025+Winner;💻+Frontend+%26+Fullstack+Developer;✨+Turning+Ideas+Into+Interactive+Experiences" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:3b82f6&height=110&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:3b82f6&height=120&section=header"/>
 </p>
 
 <p align="center">
   <strong>Frontend & Fullstack Developer | MCA Student</strong><br/>
-  <em>Crafting interactive, animated & scalable web experiences with clean code and modern tech.</em>
+  <em>Focused on building animated, scalable & user-friendly web applications.</em>
 </p>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
 ## 🌟 About Me
 
-- 🎓 **MCA (Pursuing)** — **BVIMIT, Mumbai University**  
-- 🎓 **B.Sc. Computer Science** — Mumbai University (CGPA: 8.8)  
-- 🏆 **Smart India Hackathon 2025 – WINNER 🏆**  
-- 💼 **Fullstack Developer Intern** @ Softmusk Info Pvt. Ltd. & Business Web Solutions  
-- 🌱 Exploring **React.js, Django, Firebase, Three.js & Animations**  
-- 🥇 **1st Prize – UI Design**, Advitya State-Level Competition  
-- 🧩 **Head Student Representative** – Led multiple college tech events  
+- 🎓 **MCA (Pursuing)** — **BVIMIT, Mumbai University**
+- 🎓 **B.Sc. Computer Science** — Mumbai University (CGPA: 8.8)
+- 🏆 **Smart India Hackathon 2025 – WINNER 🏆**
+- 💼 **Fullstack Developer Intern** — Softmusk Info Pvt. Ltd. & Business Web Solutions
+- 🌱 Learning **React.js, Django, Firebase, Three.js & Web Animations**
+- 🥇 **1st Prize – UI Design**, Advitya State-Level Competition
+- 🧩 **Head Student Representative** — Led multiple tech events
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 🧠 Tech Stack
 
 ### 🚀 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,firebase,reactnative&perline=8" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,firebase,reactnative&theme=dark" />
 </p>
 
 ### 🛠 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,mysql&perline=8" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,mysql&theme=dark" />
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 💼 Featured Projects
 
 ### 🔹 Real-Time Inventory Management System
-- ⚡ Built with **React.js + Firebase**
-- 🔐 Secure authentication & real-time updates
-- 📊 Optimized performance & clean UI
+- ⚡ React.js + Firebase
+- 🔐 Secure authentication
+- 📊 Optimized real-time data updates
 
 ### 🔹 3D Hotel Booking Website
-- 🌐 **React.js + Three.js** immersive 3D UI
+- 🌐 React.js + Three.js
 - 💳 Encrypted payment flow
-- 🎨 Modern UX with animations
+- 🎨 Interactive 3D UI & animations
 
 ---
 
-## 🏆 Achievements & Highlights
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2025%20Winner-22c55e?style=for-the-badge&logo=trophy" />
+  <img src="https://img.shields.io/badge/🏆%20Smart%20India%20Hackathon%202025-WINNER-22C55E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UI%20Design-1st%20Prize-3b82f6?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/MCA-BVIMIT-orange?style=for-the-badge&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/MCA-BVIMIT-orange?style=for-the-badge" />
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## ⚡ GitHub Stats & Animations
 
@@ -76,11 +87,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poojanaik07&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojanaik07&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poojanaik07&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poojanaik07&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/poojanaik07/poojanaik07/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -102,9 +121,9 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:22c55e&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:22c55e&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  🌱 <em>Building creative & impactful web experiences — one commit at a time.</em>
+  🌱 <em>Designing the future, one commit at a time.</em>
 </p>
