@@ -16,8 +16,10 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="140" alt="Trophy Animation"/>
+  <img width="713" height="641" alt="image" src="https://github.com/user-attachments/assets/e7aa5411-acc1-4c12-80f1-916adab7cc60" />
 </p>
+
+
 
 <h2 align="center">🏆 Smart India Hackathon Winner 2025</h2>
 
