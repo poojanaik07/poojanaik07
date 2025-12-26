@@ -3,9 +3,7 @@
   Repo name must be: poojanaik
 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=950&lines=👋+Hi%2C+I'm+Pooja+Naik;💻+Frontend+%26+Fullstack+Developer;🚀+SIH+2025+Winner+%7C+MCA+Student" alt="Typing SVG"/>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Pooja+Naik.;%F0%9F%92%BB+%7C+Frontend+%26+Fullstack+Developer" alt="Typing SVG"/> </p>>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=header"/>
