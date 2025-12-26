@@ -96,14 +96,6 @@ Developed an immersive **3D web experience** using **React.js + Three.js**, with
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/poojanaik07?label=Followers&style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/poojanaik07?label=Stars&style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=poojanaik07&label=Profile%20Views&style=for-the-badge&color=green"/>
-</p>
-
-
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poojanaik07&theme=tokyonight"/>
 </p>
 
