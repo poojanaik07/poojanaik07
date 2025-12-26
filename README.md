@@ -108,6 +108,10 @@ Developed an immersive **3D web experience** using **React.js + Three.js**, with
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/trophy.gif" width="120"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/trophy.gif" width="120"/>
+</p>
+
 ---
 
 ## 🌐 Connect with Me
