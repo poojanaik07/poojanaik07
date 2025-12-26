@@ -107,6 +107,9 @@ Developed an immersive **3D web experience** using **React.js + Three.js**, with
   <img src="https://github-readme-stats.vercel.app/api?username=poojanaik07&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=poojanaik07&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
