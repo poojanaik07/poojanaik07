@@ -4,8 +4,9 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FACC15&center=true&vCenter=true&width=950&lines=🏆+Smart+India+Hackathon+Winner+2025;💻+Pooja+Naik+|+Frontend+%26+Fullstack+Developer;✨+Turning+Ideas+Into+Impactful+Products" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FACC15&center=true&vCenter=true&width=900&lines=Smart+India+Hackathon+Winner+2025;Pooja+Naik+%7C+Frontend+%26+Fullstack+Developer;MCA+Student+at+BVIMIT" />
 </p>
+
 
 <p align="center">
   <strong>💻 Frontend & Fullstack Developer | MCA Student</strong><br/>
