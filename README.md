@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img width="713" height="641" alt="image" src="https://github.com/user-attachments/assets/e7aa5411-acc1-4c12-80f1-916adab7cc60" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e7aa5411-acc1-4c12-80f1-916adab7cc60" />
 </p>
 
 
