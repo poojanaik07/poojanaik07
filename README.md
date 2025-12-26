@@ -99,16 +99,13 @@ Developed an immersive **3D web experience** using **React.js + Three.js**, with
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=poojanaik07&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=poojanaik07&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=poojanaik07&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poojanaik07&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojanaik07&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=poojanaik07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
