@@ -1,15 +1,17 @@
-<!-- ===============================
+<!-- =========================================
    GitHub Profile README
-   Author: Pooja Naik
+   Name: Pooja Naik
    Repo: poojanaik07
-================================ -->
+========================================== -->
 
+<!-- ===== HERO TYPING ANIMATION ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=22C55E&center=true&vCenter=true&width=1000&lines=👋+Hello,+I'm+Pooja+Naik;🎓+MCA+Student+at+BVIMIT;🏆+Smart+India+Hackathon+2025+Winner;💻+Frontend+%26+Fullstack+Developer;✨+Turning+Ideas+Into+Interactive+Experiences" />
 </p>
 
+<!-- ===== SAFE HEADER WAVE (FIXED) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:3b82f6&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" />
 </p>
 
 <p align="center">
@@ -56,12 +58,12 @@
 ### 🔹 Real-Time Inventory Management System
 - ⚡ React.js + Firebase
 - 🔐 Secure authentication
-- 📊 Optimized real-time data updates
+- 📊 Real-time optimized updates
 
 ### 🔹 3D Hotel Booking Website
 - 🌐 React.js + Three.js
-- 💳 Encrypted payment flow
-- 🎨 Interactive 3D UI & animations
+- 💳 Encrypted payment system
+- 🎨 Interactive 3D UI
 
 ---
 
@@ -79,7 +81,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## ⚡ GitHub Stats & Animations
+## ⚡ GitHub Stats & Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=poojanaik07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -120,8 +122,9 @@
 
 ---
 
+<!-- ===== SAFE FOOTER WAVE ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:22c55e&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </p>
 
 <p align="center">
