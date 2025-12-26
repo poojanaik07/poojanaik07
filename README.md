@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FACC15&center=true&vCenter=true&width=900&lines=Smart+India+Hackathon+Winner+2025;Pooja+Naik+%7C+Frontend+%26+Fullstack+Developer;MCA+Student+at+BVIMIT" />
 </p>
 
-
 <p align="center">
   <strong>💻 Frontend & Fullstack Developer | MCA Student</strong><br/>
   <em>Passionate about crafting interactive, responsive, and user-friendly web applications using modern technologies.</em>
@@ -16,10 +15,8 @@
 ---
 
 <p align="center">
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e7aa5411-acc1-4c12-80f1-916adab7cc60" />
+  <img width="100" height="100" alt="trophy" src="https://github.com/user-attachments/assets/e7aa5411-acc1-4c12-80f1-916adab7cc60" />
 </p>
-
-
 
 <h2 align="center">🏆 Smart India Hackathon Winner 2025</h2>
 
@@ -39,6 +36,7 @@ Awarded for innovation, real-world problem solving, and outstanding team executi
 - 🎓 **MCA (Pursuing)** — **Bharati Vidyapeeth Institute of Management & Information Technology (BVIMIT)**  
 - 🎓 **Bachelor of Computer Science**, Mumbai University (CGPA: 8.8)  
 - 🏆 **Smart India Hackathon Winner 2025** — National Innovation Challenge  
+- 🏅 **Student of the Year – 2024** — For academic excellence & leadership  
 - 💼 **Fullstack Developer Intern** @ Softmusk Info Pvt. Ltd. & Business Web Solutions  
 - 🌱 Currently exploring **React.js**, **Django**, **Firebase**, and **Three.js**  
 - 🥇 **First Prize** in UI Design — Advitya State-Level Competition  
@@ -83,8 +81,8 @@ Developed an immersive **3D web experience** using **React.js + Three.js**, with
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆%20SIH%202025-WINNER-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Student%20of%20the%20Year-2024-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UI%20Design-1st%20Prize-00C853?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/MCA-BVIMIT%20(Pursuing)-4F46E5?style=for-the-badge"/>
 </p>
 
 ---
